@@ -30,3 +30,18 @@ PROJECT 2
 3. Copy or Move a chat from one project to another
 
 > NOTE: If Claude Code creates a context then the context has to be moved as well.
+
+## Usage
+
+```bash
+# list all chats
+$ ez3c list
+
+# scroll down to the desired chat 
+# press DEL or BACKSPACE to delete
+# press C to copy or M to move
+# user is then presented with a list of projects
+# scroll up or down to the desired project (the current project is the project
+# which the chat belongs
+# press ENTER to copy or move the chat
+```
