@@ -15,16 +15,18 @@ This could be due to context building - needs investigation.
 
 ```text
 PROJECT 1
-1. Chat-1.1
-2. Chat-1.2
+1. Chat-1.1 - First 100 chars
+2. Chat-1.2 - First 100 chars
 ...
 
 PROJECT 2
-1. Chat-2.1
-2. Chat-2.2
+1. Chat-2.1 - First 100 chars
+2. Chat-2.2 - First 100 chars
 ...
 ```
 
 2. Remove a chat from the list by pressing DEL or BACKSPACE key
 
+3. Copy or Move a chat from one project to another
 
+> NOTE: If Claude Code creates a context then the context has to be moved as well.
